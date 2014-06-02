@@ -1,0 +1,11 @@
+[pack]
+	buildbitmaps = false
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[remote "origin"]
+	url = file:///C:/Users/Denny/Documents/NetBeansProjects/PeterWeek3/
+	fetch = +refs/heads/PeterWeek3:refs/remotes/origin/PeterWeek3
+	fetch = +refs/heads/master:refs/remotes/origin/master
